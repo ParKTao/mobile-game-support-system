@@ -1,6 +1,6 @@
 # Table of contents
 
-* [mobile-game-support-system](README.md)
+* [mobile](README.md)
 
 ## 前言
 
