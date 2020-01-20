@@ -1,6 +1,6 @@
 # Table of contents
 
-* [mobile](README.md)
+* [自研手游多渠道发行图谱](README.md)
 
 ## 前言
 
